@@ -2,7 +2,7 @@
     "name": "Parabox.CSG.Demo",
     "rootNamespace": "",
     "references": [
-        "Unity.ProBuilder.Csg"
+        "Unity.CSG"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
